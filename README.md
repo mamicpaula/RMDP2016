@@ -24,7 +24,7 @@ Small script for simple creation of NVO-KSK.txt file for class project for [Razd
    ````R
       # This is how it looks now
       
-      #install.packaged('gdata')
+      #install.packages('gdata')
 
       #This is how it shoul look if you don't have gdata package
       
